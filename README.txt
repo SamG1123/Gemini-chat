@@ -10,4 +10,5 @@
 # Note : Before running 'python app.py' make sure you have the following libraries installed,
 		1. pip install Flask
 		2. pip install google.generativeai
+		3. Get your api key form https://aistudio.google.com/app/apikey and add into your program
 
